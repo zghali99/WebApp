@@ -67,8 +67,8 @@ color:white;
 </div>
 <div class="text-center">
    <span id="fullyear">2017</span>
-   &#169; AVN COMMUNICATION. All Rights Reserved.<br>
-   | Small Business | Medium Business | Large Business | Wholesale |
+   &#169; DEVOPS UNION. All Rights Reserved.<br>
+   | India | Singapore | Belgium | USA |
   </div>
   </form>
 </body>
