@@ -165,7 +165,7 @@ position: absolute;
 </div><br>
 <img src="logopost.jpg" alt="HTML5 Icon" style="width:325px;height:185px;position:absolute;left:60px;top:10px;">
 <b>
-<h1 style="color:#968370;font-size: 350%;position:absolute;left:460px;top:80px;">JUPITER COMMUNICATION</h1></b>
+<h1 style="color:#968370;font-size: 350%;position:absolute;left:460px;top:80px;">MARS COMMUNICATION</h1></b>
 <br><br><br>
 <section class="wlp-login-message-content">
 <p><b>
@@ -174,7 +174,7 @@ position: absolute;
 </i>
 </b>
 <br><br>
-The Telecommunications Help Desk, can assist with issues and concerns regarding:
+The Mars Help Desk, can assist with issues and concerns regarding:
 <br><br>
 <i>
 <font color="orange"> Troubleshooting problems</font>
@@ -190,13 +190,13 @@ The Telecommunications Help Desk, can assist with issues and concerns regarding:
 </i>
 <br><br>
 <ul style="margin-left:20px">
-<li>Call 896-547-7182</li>
+<li>Call 123-456-7890</li>
 <li>
-<a href="mailto:compliant@avncommu.com">Email</a>
+<a href="mailto:compliant@devopsunion.com">Email</a>
 </li><br>
  Wholesale Customer Care:
 <br>
- 799-475-4578 or 458-457-7412
+ 333-333-3333 or 555-555-5555
 </p>
 </section>
 <div class="module form-module">
@@ -214,8 +214,8 @@ The Telecommunications Help Desk, can assist with issues and concerns regarding:
    </div>
    <p class="text-center">
    <span id="fullyear">2017</span>
-   &#169; AVN COMMUNICATION. All Rights Reserved.<br>
-   | Small Business | Medium Business | Large Business | Wholesale |
+   &#169; DEVOPS UNION. All Rights Reserved.<br>
+   | India | Singapore | Belgium | USA |
   </p>
  </body>
  </html>
